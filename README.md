@@ -1,1 +1,2 @@
 # StudySync_FrontEnd_Website
+A responsive web page is designed using HTML and CSS, incorporating advanced styling techniques like Flexbox, Grid, and Media Queries. It dynamically adjusts to different screen sizes, ensuring an optimal user experience on desktops, tablets, and mobile devices. The layout is structured efficiently, with flexible grids and adaptive components that enhance both functionality and aesthetics. 
